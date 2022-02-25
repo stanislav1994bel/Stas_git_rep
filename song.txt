@@ -5,4 +5,9 @@ in this thier chosen battle field
  the lines
 shield by shield
  Added some words for check branch
+<<<<<<< HEAD
  Stas you are here
+=======
+Added some lines
+Okay, turns out , that all is well
+>>>>>>> my_new_feature
