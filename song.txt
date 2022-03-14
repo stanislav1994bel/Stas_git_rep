@@ -16,3 +16,4 @@ Okay, turns out , that all is well
 Hi Stas. Have a neci day
 =======
 >>>>>>> 2c655f362aa70e0f916b13f26c0c8fc5bf82e8f7
+For revert line
