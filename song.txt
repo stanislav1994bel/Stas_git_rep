@@ -17,3 +17,4 @@ Okay, turns out , that all is well
  Added some words for check branch
 For fast forward brench
 >>>>>>> new_branch
+Non fast fast forward merge
