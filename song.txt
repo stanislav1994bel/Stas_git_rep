@@ -11,9 +11,4 @@ Stas you are here
 
 Added some lines
 Okay, turns out , that all is well
-<<<<<<< HEAD
->>>>>>> my_new_feature
-Hi Stas. Have a neci day
-=======
->>>>>>> 2c655f362aa70e0f916b13f26c0c8fc5bf82e8f7
-For revert line
+
