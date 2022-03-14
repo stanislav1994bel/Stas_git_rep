@@ -1,14 +1,18 @@
+
 wall of shields
 standing string
 in this thier chosen battle field
 
- the lines
+the lines
 shield by shield
- Added some words for check branch
-<<<<<<< HEAD
- Stas you are here
-=======
+Added some words for check branch
+
+Stas you are here
+
 Added some lines
 Okay, turns out , that all is well
+<<<<<<< HEAD
 >>>>>>> my_new_feature
 Hi Stas. Have a neci day
+=======
+>>>>>>> 2c655f362aa70e0f916b13f26c0c8fc5bf82e8f7
