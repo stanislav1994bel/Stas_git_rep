@@ -5,6 +5,7 @@ in this thier chosen battle field
 
 the lines
 shield by shield
+<<<<<<< HEAD
 Added some words for check branch
 
 Stas you are here
@@ -12,3 +13,7 @@ Stas you are here
 Added some lines
 Okay, turns out , that all is well
 
+=======
+ Added some words for check branch
+For fast forward brench
+>>>>>>> new_branch
