@@ -3,7 +3,11 @@ wall of shields
 standing string
 in this thier chosen battle field
 
+<<<<<<< HEAD
 the lines
+=======
+
+>>>>>>> new_branch
 shield by shield
 <<<<<<< HEAD
 Added some words for check branch
