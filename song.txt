@@ -11,3 +11,4 @@ shield by shield
 Added some lines
 Okay, turns out , that all is well
 >>>>>>> my_new_feature
+Hi Stas. Have a neci day
