@@ -3,22 +3,11 @@ wall of shields
 standing string
 in this thier chosen battle field
 
-<<<<<<< HEAD
-the lines
-=======
-
->>>>>>> new_branch
-shield by shield
-<<<<<<< HEAD
-Added some words for check branch
-
 Stas you are here
 
-Added some lines
 Okay, turns out , that all is well
 
-=======
- Added some words for check branch
+Added some words for check branch
 For fast forward brench
->>>>>>> new_branch
+
 Non fast fast forward merge
