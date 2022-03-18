@@ -8,6 +8,6 @@ Stas you are here
 Okay, turns out , that all is well
 
 Added some words for check branch
-For fast forward brench
+For fast forward merge
 
 Non fast fast forward merge
