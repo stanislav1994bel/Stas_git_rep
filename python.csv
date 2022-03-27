@@ -11,4 +11,8 @@ For fast forward merge
 
 Non fast fast forward merge
  Git STASH list
+<<<<<<< HEAD
 Hi hi
+=======
+I did it
+>>>>>>> python_work
